@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rjs-p15/static/css/main.3a3985ea.css",
+    "main.js": "/rjs-p15/static/js/main.e4fbe2e5.js",
+    "index.html": "/rjs-p15/index.html",
+    "main.3a3985ea.css.map": "/rjs-p15/static/css/main.3a3985ea.css.map",
+    "main.e4fbe2e5.js.map": "/rjs-p15/static/js/main.e4fbe2e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3985ea.css",
+    "static/js/main.e4fbe2e5.js"
+  ]
+}
